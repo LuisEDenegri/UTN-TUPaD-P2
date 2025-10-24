@@ -139,6 +139,5 @@ public class Curso {
 
 ## 🛠️ Tecnologías
 
-- **Lenguaje**: Java 8+
 - **Estructuras**: ArrayList, Enum
 - **Paradigma**: Programación Orientada a Objetos
