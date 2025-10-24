@@ -82,5 +82,4 @@ titular.setPasaporte(pasaporte); // Sincronización automática
 
 ## 🛠️ Tecnologías
 
-- **Lenguaje**: Java 8+
 - **Paradigma**: Programación Orientada a Objetos
